@@ -293,7 +293,7 @@ def main():
             print(f"    Result: {status}")
             if details:
                 print(f"    Details: {details}")
-    print("\n[+] Testing completed. Check the results above.")
+    print("\n[+] Testing completed...Check the results above.")
 
 if __name__ == "__main__":
     main()
